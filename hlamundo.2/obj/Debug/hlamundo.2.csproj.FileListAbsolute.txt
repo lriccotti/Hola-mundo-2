@@ -1,0 +1,7 @@
+C:\Users\VaCkensi\Documents\SharpDevelop Projects\hlamundo.2\hlamundo.2\bin\Debug\hlamundo.2.exe
+C:\Users\VaCkensi\Documents\SharpDevelop Projects\hlamundo.2\hlamundo.2\bin\Debug\hlamundo.2.pdb
+C:\Users\VaCkensi\Documents\SharpDevelop Projects\hlamundo.2\hlamundo.2\obj\Debug\hlamundo.2.csprojResolveAssemblyReference.cache
+C:\Users\VaCkensi\Documents\SharpDevelop Projects\hlamundo.2\hlamundo.2\obj\Debug\hlamundo._.MainForm.resources
+C:\Users\VaCkensi\Documents\SharpDevelop Projects\hlamundo.2\hlamundo.2\obj\Debug\hlamundo.2.csproj.GenerateResource.Cache
+C:\Users\VaCkensi\Documents\SharpDevelop Projects\hlamundo.2\hlamundo.2\obj\Debug\hlamundo.2.exe
+C:\Users\VaCkensi\Documents\SharpDevelop Projects\hlamundo.2\hlamundo.2\obj\Debug\hlamundo.2.pdb
